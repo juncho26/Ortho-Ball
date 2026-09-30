@@ -2,7 +2,7 @@
 
 A low-profile wireless split keyboard with a trackball.
 
-*Inspired by [poached-eggs]([https://github.com/GEIGEIGEIST/TOTEM](https://site.omuken.me/poached-eggs/)) by Omuken*
+*Inspired by [poached-eggs]([https://site.omuken.me/poached-eggs/) by Omuken*
 
 ## Overview
 
@@ -10,6 +10,6 @@ A low-profile wireless split keyboard with a trackball.
 - **Layout:** 37 keys, Ortholinear
 - **Connectivity:** Wireless, running the [ZMK Firmware](https://zmk.dev/)
 - **Case:** 3D Printed
-- **Trackball:** 19mm (Magnetically Attatched)
+- **Trackball:** Magnetic 19mm Ball (Using Ball Bearings)
 
 ## Gallery
