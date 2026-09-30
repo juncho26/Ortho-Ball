@@ -2,7 +2,7 @@
 
 A low-profile gasket-mounted split keyboard with a trackball.
 
-*Inspired by [poached-eggs]([https://site.omuken.me/poached-eggs/) by Omuken*
+*Inspired by [poached-eggs]([https://site.omuken.me/poached-eggs/]) by Omuken* and [Maghold-trackball-case](https://github.com/shizu0428/maghold-trackball-case/tree/main) by Shizu0428*
 
 ## Overview
 
