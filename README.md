@@ -1,6 +1,6 @@
 # Ortho-Ball
 
-A low-profile wireless split keyboard with a trackball.
+A low-profile gasket-mounted split keyboard with a trackball.
 
 *Inspired by [poached-eggs]([https://site.omuken.me/poached-eggs/) by Omuken*
 
