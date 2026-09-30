@@ -13,3 +13,6 @@ A low-profile wireless split keyboard with a trackball.
 - **Trackball:** Magnetic 19mm Ball (Using Ball Bearings)
 
 ## Gallery
+
+![EX1](EX1.JPG)
+![EX2](EX2.JPG)
