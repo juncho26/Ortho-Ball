@@ -12,6 +12,7 @@ A low-profile gasket-mounted split keyboard with a trackball.
 - **Connectivity:** Wireless, running the [ZMK Firmware](https://zmk.dev/)
 - **Case:** 3D Printed
 - **Trackball:** Magnetic 19mm Ball (Using Ball Bearings)
+- **Trackball Sensor:** PMW3610
 
 ## Gallery
 
