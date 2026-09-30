@@ -6,6 +6,7 @@ A low-profile wireless split keyboard with a trackball.
 
 ## Overview
 
+- **Mounting Style:** Gasket Mount
 - **Switches:** Soldered Choc switche
 - **Layout:** 37 keys, Ortholinear
 - **Connectivity:** Wireless, running the [ZMK Firmware](https://zmk.dev/)
